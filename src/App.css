@@ -3,8 +3,8 @@ body {
   padding-left: 40px;
   padding-right: 30px;
   font-family: Arial, sans-serif;
-  background-color: #f9f8f5; /* Off-white background */
-  color: #333; /* Dark text color */
+  background-color: #e74c3c; /* Naruto-themed red */
+  color: #fff; /* White text color */
 }
 
 .App {
@@ -18,10 +18,11 @@ body {
 .Title {
   font-size: 32px;
   margin-bottom: 20px; /* Add space below the title */
+  color: #fff; /* White text color */
 }
 
 .FlashcardGame {
-  background-color: #fff;
+  background-color: #222; /* Dark grey background */
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   padding: 20px;
@@ -30,7 +31,7 @@ body {
 }
 
 .Flashcard {
-  background-color: #fff;
+  background-color: #333; /* Dark grey flashcard background */
   border: 1px solid #ccc;
   border-radius: 10px;
   cursor: pointer;
@@ -42,22 +43,21 @@ body {
 }
 
 .Flashcard:hover {
-  background-color: #f9f9f9;
+  background-color: #444; /* Darker grey on hover */
 }
 
 .Question, .Answer {
-  color: #333; 
+  color: #fff; /* White text color */
   font-size: 24px;
   line-height: 1.5;
-  text-align: center; 
+  text-align: center;
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-
 button {
-  background-color: #007bff;
+  background-color: #3498db; /* Blue button color */
   border: none;
   border-radius: 5px;
   color: #fff;
@@ -69,7 +69,7 @@ button {
 }
 
 button:hover {
-  background-color: #0056b3;
+  background-color: #2980b9; /* Darker blue on hover */
 }
 
 @media (max-width: 768px) {
