@@ -2,7 +2,7 @@
 
 Submitted by: **Mohammed Nazib Hossain Khan**
 
-This web app: **Embark on an immersive journey into the captivating world of Naruto with our interactive flashcard quiz. Test your knowledge of the beloved anime series with challenging questions and discover how much of a true Naruto fan you truly are!**
+**Embark on an immersive journey into the captivating world of Naruto with our interactive flashcard quiz. Test your knowledge of the beloved anime series with challenging questions and discover how much of a true Naruto fan you truly are!**
 
 Time spent: **6** hours spent in total
 
