@@ -47,6 +47,10 @@ const FlashcardGame = () => {
     }
   ];
 
+  const handleNextCard = () => {
+    setCurrentCardIndex((prevIndex) => (prevIndex + 1) % cards.length);
+  };
+
   return (
     <div className="FlashcardGame">
       <h2>Naruto Quiz!</h2>
