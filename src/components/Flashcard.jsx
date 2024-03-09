@@ -1,4 +1,3 @@
-// components/Flashcard.jsx
 import React, { useState } from "react";
 
 const Flashcard = ({ question, answer }) => {

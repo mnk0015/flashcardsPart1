@@ -1,4 +1,3 @@
-// App.jsx
 import React from "react";
 import FlashcardGame from "./components/FlashcardGame";
 import "./App.css";
